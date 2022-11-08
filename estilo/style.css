@@ -170,7 +170,7 @@ footer > a{
     text-decoration: none;
     color: rgb(1, 18, 255);
     background-color: white;
-    border-radius: 5px;
+    border-radius: 4px;
 }
 footer > a:hover{
     text-decoration: underline;
